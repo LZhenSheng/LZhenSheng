@@ -15,3 +15,7 @@
 <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_44575660&theme=dark"> </div>
 
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27"> </a> </h1>
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=380&height=45&lines=Full+Stack+web+developer;Self-taught+Code+Designer;Always+learning+new+things">
+</p>
