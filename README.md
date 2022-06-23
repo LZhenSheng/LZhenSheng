@@ -38,11 +38,15 @@
 
 🛠️ **Language:**
 <p>
-     <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3AJava"><img alt="Java" src="https://img.shields.io/badge/Java-%23E34F26.svg?logo=Java&logoColor=white"></a>
-     <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3Ahtml"><img alt="Java" src="https://img.shields.io/badge/Java-%23E34F26.svg?logo=Java&logoColor=white"></a>
-
-     <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"></a>
-
+     <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3AJava"><img alt="Java" src="https://img.shields.io/badge/Java-21759B.svg?logo=Java&logoColor=white"></a>
+     <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3APython"><img alt="Python" src="https://img.shields.io/badge/Python-%23327FC7.svg?logo=Java&logoColor=white"></a>
+     <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3AC++"><img alt="C++" src="https://img.shields.io/badge/C++-%23191f25.svg?logo=C&logoColor=white"></a>
+     <a href="https://github.com/search?q=user%3LZhenSheng+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%234479A1.svg?logo=amazon-dynamodb&logoColor=white"></a>
+     <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3AShell"><img alt="Shell" src="https://img.shields.io/badge/Shell%20-%23c83d2e.svg?logo=shell"></a>
+    <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%2395e0d1.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23F05033.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-FF6C37.svg?logo=javascript&logoColor=black"></a>
+    
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%233776AB.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
