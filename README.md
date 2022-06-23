@@ -52,7 +52,7 @@
 🛠️ **Tools:**
 <p>
     <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3AAndroid"><img alt="Android" src="https://img.shields.io/badge/Android%20-eb488b.svg?logo=Android&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3AShell"><img alt="Shell" src="https://img.shields.io/badge/Shell%20-%236fba48.svg?logo=shell"></a>
+    <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3AHtml"><img alt="Web" src="https://img.shields.io/badge/Web%20-%236fba48.svg?logo=HTML5"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
