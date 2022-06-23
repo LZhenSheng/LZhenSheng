@@ -21,12 +21,12 @@
 
 🛠️ **Languages and Tools:**
 <p>
-    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-%23777BB4?logo=PyCharm&logoColor=ffffff" /></a>
-    <a href="#"><img alt="IDEA" src="https://img.shields.io/badge/-IDEA-%2345b8d8?logo=IntelliJ IDEA&logoColor=ffffff" /></a>
-    <a href="#"><img alt="SQLYog" src="https://img.shields.io/badge/SQLYog-%233776AB?logoColor=ffffff" /></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-%231572B6?logo=Android Studio&logoColor=ffffff" /></a>
-    <a href="#"><img alt="夜神模拟器" src="https://img.shields.io/badge/-%E5%A4%9C%E7%A5%9E%E6%A8%A1%E6%8B%9F%E5%99%A8-%23E34F26?logoColor=ffffff" /></a>
-    <a href="#"><img alt="逍遥模拟器" src="https://img.shields.io/badge/-%E9%80%8D%E9%81%A5%E6%A8%A1%E6%8B%9F%E5%99%A8-FF0000?logoColor=ffffff" /></a>
+    <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-%23777BB4?logo=PyCharm&logoColor=ffffff" />
+    <img alt="IDEA" src="https://img.shields.io/badge/-IDEA-%2345b8d8?logo=IntelliJ IDEA&logoColor=ffffff" />
+    <img alt="SQLYog" src="https://img.shields.io/badge/SQLYog-%233776AB?logoColor=ffffff" />
+    <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-%231572B6?logo=Android Studio&logoColor=ffffff" />
+    <img alt="夜神模拟器" src="https://img.shields.io/badge/-%E5%A4%9C%E7%A5%9E%E6%A8%A1%E6%8B%9F%E5%99%A8-%23E34F26?logoColor=ffffff" />
+    <img alt="逍遥模拟器" src="https://img.shields.io/badge/-%E9%80%8D%E9%81%A5%E6%A8%A1%E6%8B%9F%E5%99%A8-FF0000?logoColor=ffffff" />
 
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%233776AB.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
