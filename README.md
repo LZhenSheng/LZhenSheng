@@ -38,6 +38,9 @@
 
 🛠️ **Language:**
 <p>
+     <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3AJava"><img alt="Java" src="https://img.shields.io/badge/Java-%23E34F26.svg?logo=Java&logoColor=white"></a>
+     <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3Ahtml"><img alt="Java" src="https://img.shields.io/badge/Java-%23E34F26.svg?logo=Java&logoColor=white"></a>
+
      <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"></a>
 
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%233776AB.svg?logo=python&logoColor=white"></a>
