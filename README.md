@@ -1,8 +1,6 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://sunguoqi.com/">
     Hi~ Thank you for coming!
-  </a>
 </h1>
 
 <!-- 敲代码的图片 -->
