@@ -17,7 +17,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=LZhenSheng" alt="访客统计" />
 </div>
 
-🛠️ **Languages and Tools:**
+🛠️ **Software:**
 <p>
     <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-%23777BB4?logo=PyCharm&logoColor=ffffff" />
     <img alt="IDEA" src="https://img.shields.io/badge/-IDEA-%2345b8d8?logo=IntelliJ IDEA&logoColor=ffffff" />
@@ -34,6 +34,11 @@
     <img alt="eclipse" src="https://img.shields.io/badge/-Eclipse-%23025E8C?logo=Eclipse IDE&logoColor=ffffff" />
     <img alt="kaggle" src="https://img.shields.io/badge/-kaggle-%23404d59?logo=Kaggle&logoColor=ffffff" />
     <img alt="Netron" src="https://img.shields.io/badge/-Netron-%232671E5?logoColor=ffffff" />
+</p>
+
+🛠️ **Language:**
+<p>
+     <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"></a>
 
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%233776AB.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
