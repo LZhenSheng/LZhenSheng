@@ -17,7 +17,7 @@
 
 🛠️ **Software:**
 <p>
-    <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-%23777BB4?logo=PyCharm&logoColor=ffffff" />
+    <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-%23777BB4?logo=PyCharm"/>
     <img alt="IDEA" src="https://img.shields.io/badge/-IDEA-%2345b8d8?logo=IntelliJ IDEA&logoColor=ffffff" />
     <img alt="SQLYog" src="https://img.shields.io/badge/SQLYog-%233776AB?logoColor=ffffff" />
     <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-%231572B6?logo=Android Studio&logoColor=ffffff" />
