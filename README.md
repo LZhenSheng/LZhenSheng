@@ -18,18 +18,18 @@
 🛠️ **Software:**
 <p>
     <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-%23777BB4?logo=PyCharm"/>
-    <img alt="IDEA" src="https://img.shields.io/badge/-IDEA-%2345b8d8?logo=IntelliJ IDEA&logoColor=ffffff" />
-    <img alt="SQLYog" src="https://img.shields.io/badge/SQLYog-%233776AB?logoColor=ffffff" />
-    <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-%231572B6?logo=Android Studio&logoColor=ffffff" />
-    <img alt="夜神模拟器" src="https://img.shields.io/badge/-%E5%A4%9C%E7%A5%9E%E6%A8%A1%E6%8B%9F%E5%99%A8-%23E34F26?logoColor=ffffff" />
-    <img alt="逍遥模拟器" src="https://img.shields.io/badge/-%E9%80%8D%E9%81%A5%E6%A8%A1%E6%8B%9F%E5%99%A8-%23F7DF1E?logoColor=ffffff" />
-    <img alt="StarUML" src="https://img.shields.io/badge/-StarUML-%2343853D?logoColor=ffffff" />
-    <img alt="JavaFX Scene Builder 2.0" src="https://img.shields.io/badge/-JavaFX%20Scene%20Builder%202.0-%232b3847?logoColor=ffffff" />
-    <img alt="Postman" src="https://img.shields.io/badge/-Postman-FCC624?logo=Postman&logoColor=ffffff" />
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-%236fba48?logo=Visual Studio Code&logoColor=ffffff" />
-    <img alt="Typora" src="https://img.shields.io/badge/-Typora-%23554674?logoColor=ffffff" />
-    <img alt="iconfont" src="https://img.shields.io/badge/-iconfont-%23000000?logoColor=ffffff" />
-    <img alt="eclipse" src="https://img.shields.io/badge/-Eclipse-%23025E8C?logo=Eclipse IDE&logoColor=ffffff" />
+    <img alt="IDEA" src="https://img.shields.io/badge/-IDEA-%2345b8d8?logo=IntelliJ IDEA" />
+    <img alt="SQLYog" src="https://img.shields.io/badge/SQLYog-%233776AB" />
+    <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-%231572B6?logo=Android Studio" />
+    <img alt="夜神模拟器" src="https://img.shields.io/badge/-%E5%A4%9C%E7%A5%9E%E6%A8%A1%E6%8B%9F%E5%99%A8-%23E34F26" />
+    <img alt="逍遥模拟器" src="https://img.shields.io/badge/-%E9%80%8D%E9%81%A5%E6%A8%A1%E6%8B%9F%E5%99%A8-%23F7DF1E" />
+    <img alt="StarUML" src="https://img.shields.io/badge/-StarUML-%2343853D" />
+    <img alt="JavaFX Scene Builder 2.0" src="https://img.shields.io/badge/-JavaFX%20Scene%20Builder%202.0-%232b3847" />
+    <img alt="Postman" src="https://img.shields.io/badge/-Postman-FCC624?logo=Postman" />
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-%236fba48?logo=Visual Studio Code" />
+    <img alt="Typora" src="https://img.shields.io/badge/-Typora-%23554674" />
+    <img alt="iconfont" src="https://img.shields.io/badge/-iconfont-%23000000" />
+    <img alt="eclipse" src="https://img.shields.io/badge/-Eclipse-%23025E8C?logo=Eclipse IDE" />
     <img alt="kaggle" src="https://img.shields.io/badge/-kaggle-%23404d59?logo=Kaggle&logoColor=ffffff" />
     <img alt="Netron" src="https://img.shields.io/badge/-Netron-%232671E5?logoColor=ffffff" />
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-FE7A16?logo=Linux&logoColor=black" />
