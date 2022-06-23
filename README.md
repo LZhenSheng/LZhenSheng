@@ -30,28 +30,28 @@
     <img alt="Typora" src="https://img.shields.io/badge/-Typora-%23554674" />
     <img alt="iconfont" src="https://img.shields.io/badge/-iconfont-%23000000" />
     <img alt="eclipse" src="https://img.shields.io/badge/-Eclipse-%23025E8C?logo=Eclipse IDE" />
-    <img alt="kaggle" src="https://img.shields.io/badge/-kaggle-%23404d59?logo=Kaggle&logoColor=ffffff" />
-    <img alt="Netron" src="https://img.shields.io/badge/-Netron-%232671E5?logoColor=ffffff" />
-    <img alt="Linux" src="https://img.shields.io/badge/-Linux-FE7A16?logo=Linux&logoColor=black" />
-    <img alt="macOS" src="https://img.shields.io/badge/MacOS-0078d7?logo=apple&logoColor=white" />
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-a757ef?logo=Windows&logoColor=white" />
+    <img alt="kaggle" src="https://img.shields.io/badge/-kaggle-%23404d59?logo=Kaggle" />
+    <img alt="Netron" src="https://img.shields.io/badge/-Netron-%232671E5" />
+    <img alt="Linux" src="https://img.shields.io/badge/-Linux-FE7A16?logo=Linux" />
+    <img alt="macOS" src="https://img.shields.io/badge/MacOS-0078d7?logo=apple" />
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-a757ef?logo=Windows" />
 </p>
 
 🛠️ **Language:**
 <p>
-     <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3AJava"><img alt="Java" src="https://img.shields.io/badge/Java-21759B.svg?logo=Java&logoColor=white"></a>
-     <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3APython"><img alt="Python" src="https://img.shields.io/badge/Python-%23327FC7.svg?logo=Java&logoColor=white"></a>
-     <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3AC++"><img alt="C++" src="https://img.shields.io/badge/C++-%23191f25.svg?logo=C&logoColor=white"></a>
-     <a href="https://github.com/search?q=user%3LZhenSheng+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%234479A1.svg?logo=amazon-dynamodb&logoColor=white"></a>
+     <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3AJava"><img alt="Java" src="https://img.shields.io/badge/Java-21759B.svg?logo=Java"></a>
+     <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3APython"><img alt="Python" src="https://img.shields.io/badge/Python-%23327FC7.svg?logo=Java"></a>
+     <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3AC++"><img alt="C++" src="https://img.shields.io/badge/C++-%23191f25.svg?logo=C"></a>
+     <a href="https://github.com/search?q=user%3LZhenSheng+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%234479A1.svg?logo=amazon-dynamodb"></a>
      <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3AShell"><img alt="Shell" src="https://img.shields.io/badge/Shell%20-%23c83d2e.svg?logo=shell"></a>
-    <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%2395e0d1.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23F05033.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-FF6C37.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%2395e0d1.svg?logo=css3"></a>
+    <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23F05033.svg?logo=html5"></a>
+    <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-FF6C37.svg?logo=javascript"></a>
 </p>
 
 🛠️ **Tools:**
 <p>
-    <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3AAndroid"><img alt="Android" src="https://img.shields.io/badge/Android%20-eb488b.svg?logo=Android&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3AAndroid"><img alt="Android" src="https://img.shields.io/badge/Android%20-eb488b.svg?logo=Android"></a>
     <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3AHtml"><img alt="Web" src="https://img.shields.io/badge/Web%20-%236fba48.svg?logo=HTML5"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
