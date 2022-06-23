@@ -33,8 +33,8 @@
     <img alt="kaggle" src="https://img.shields.io/badge/-kaggle-%23404d59?logo=Kaggle&logoColor=ffffff" />
     <img alt="Netron" src="https://img.shields.io/badge/-Netron-%232671E5?logoColor=ffffff" />
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-FE7A16?logo=Linux&logoColor=black" />
-    <a href="#"><img alt="macOS" src="https://img.shields.io/badge/MacOS-0078d7?logo=apple&logoColor=white" />
-    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-a757ef?logo=Windows&logoColor=white" />
+    <img alt="macOS" src="https://img.shields.io/badge/MacOS-0078d7?logo=apple&logoColor=white" />
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-a757ef?logo=Windows&logoColor=white" />
 </p>
 
 🛠️ **Language:**
@@ -51,8 +51,7 @@
 
 🛠️ **Tools:**
 <p>
-   
-
+    <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3AAndroid"><img alt="Android" src="https://img.shields.io/badge/Android%20-eb488b.svg?logo=Android&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3AShell"><img alt="Shell" src="https://img.shields.io/badge/Shell%20-%236fba48.svg?logo=shell"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
