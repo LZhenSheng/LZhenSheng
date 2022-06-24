@@ -9,7 +9,7 @@
 <div align="center">
    
   <a href="https://blog.csdn.net/weixin_44575660/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>
-  <a href="#"><img src="https://img.shields.io/badge/wechat-L18237037980-green"></a>
+  <img src="https://img.shields.io/badge/wechat-L18237037980-green">
   <img src="https://img.shields.io/badge/QQ-2759100807-green">
   <img src="https://img.shields.io/badge/email-2759100807%40qq.com-green">
   <img src="https://visitor-badge.glitch.me/badge?page_id=LZhenSheng" alt="访客统计" />
