@@ -58,12 +58,16 @@
     <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown"></a>
     <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql">
+    <img alt="GuassDB" src="https://img.shields.io/badge/GuassDB-%23F05033">
     <img alt="Redis" src="https://img.shields.io/badge/redis-%23c83d2e.svg?logo=redis">
     <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git">
-    <img alt="Hadoop" src="https://img.shields.io/badge/-Hadoop-%23025E8C?logo=Apache Hadoop" />
-    <img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-%23F05033?logo=Apache Hadoop">
-    <img alt="Apache Hadoop" src="https://img.shields.io/badge/Hadoop-96e07d.svg?logo=Apache Hadoop" />
-    <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb"></a>
+    <img alt="Hadoop" src="https://img.shields.io/badge/-Hadoop-blue?logo=Apache+Hadoop" />
+    <img alt="PYQT" src="https://img.shields.io/badge/PYQT-96e07d.svg" />
+    <img alt="WxPython" src="https://img.shields.io/badge/WxPython-%23F05033">
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23025E8C.svg?logo=TensorFlow">
+    <img alt="GAN" src="https://img.shields.io/badge/GAN-%234479A1.svg?logo=GAN">
+    <img alt="SpringBoot" src="https://img.shields.io/badge/Spring+Boot-%23c83d2e.svg?logo=Spring Boot">
+    <img alt="MyBatis" src="https://img.shields.io/badge/MyBatis-%23c83d2e.svg?logo=MyBatis">
 </p>
 
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=LZhenSheng&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
