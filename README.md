@@ -60,6 +60,7 @@
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql">
     <img alt="Redis" src="https://img.shields.io/badge/redis-%23c83d2e.svg?logo=redis">
     <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git">
+    <img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-%23F05033?logo=Apache Hadoop">
     <img alt="Apache Hadoop" src="https://img.shields.io/badge/Hadoop-96e07d.svg?logo=Apache Hadoop" />
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb"></a>
 </p>
