@@ -15,6 +15,13 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=LZhenSheng" alt="访客统计" />
 </p>
 
+🛠️ **Profile:**
+<P>
+𝑯𝒊, 𝑰'𝒎 ✨ LiZhenSheng ✨, 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒔𝒆𝒍𝒇-𝒕𝒂𝒖𝒈𝒉𝒕 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒂𝒏𝒅 𝒂 𝒇𝒖𝒏𝒏𝒚 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒆𝒏𝒈𝒊𝒏𝒆𝒆𝒓 𝒇𝒓𝒐𝒎 𝑪𝒉𝒊𝒏𝒂. 
+68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966
+ 𝑰 𝒕𝒂𝒌𝒆 𝒈𝒓𝒆𝒂𝒕 𝒄𝒂𝒓𝒆 𝒊𝒏 𝒕𝒉𝒆 𝒂𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕𝒖𝒓𝒆 𝒂𝒏𝒅 𝒄𝒐𝒅𝒆 𝒒𝒖𝒂𝒍𝒊𝒕𝒚 𝒐𝒇 𝒕𝒉𝒆 𝒕𝒉𝒊𝒏𝒈𝒔 𝑰 𝒃𝒖𝒊𝒍𝒅.
+</p>
+
 🛠️ **Software:**
 <p>
     <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-%23777BB4?logo=PyCharm"/>
