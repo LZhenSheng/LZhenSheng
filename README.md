@@ -54,7 +54,7 @@
     <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3AAndroid"><img alt="Android" src="https://img.shields.io/badge/Android%20-eb488b.svg?logo=Android"></a>
     <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3AHtml"><img alt="Web" src="https://img.shields.io/badge/Web%20-%236fba48.svg?logo=HTML5"></a>
     <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3AJavaFX"><img alt="JavaFX" src="https://img.shields.io/badge/JavaFX-0078d7.svg"></a>
-    <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3AJupyter"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-FF6C37?logo=Jupyter"></a>
+    <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3AJupyter Notebook"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-FF6C37?logo=Jupyter"></a>
     <a href="https://github.com/search?q=user%3ALZhenSheng+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown"></a>
     <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql">
