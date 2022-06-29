@@ -79,7 +79,6 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/?username=LZhenSheng&theme=shades-of-purple&show_icons=true&count_private=true" alt="LZhenSheng's GitHub Stats">
-    <!-- Top Langs - https://github.com/anuraghazra/github-readme-stats -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LZhenSheng&layout=compact&theme=tokyonight&hide=ejs,blade,html,css" alt="LZhenSheng's Top Langs">
 </p>
 
