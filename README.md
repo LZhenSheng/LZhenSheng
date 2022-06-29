@@ -77,6 +77,8 @@
     <img alt="GAN" src="https://img.shields.io/badge/GAN-%234479A1.svg?logo=GAN">
     <img alt="SpringBoot" src="https://img.shields.io/badge/Spring Boot-%23c83d2e.svg?logo=Spring Boot">
     <img alt="MyBatis" src="https://img.shields.io/badge/MyBatis-%23c83d2e.svg?logo=MyBatis">
+    <img alt="sklearn" src="https://img.shields.io/badge/sklearn-%23c83d2e.svg?logo=scikit-learn">
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%23c83d2e.svg?logo=OpenCV">
 </p>
 
 🛠️ **My GitHub Stats:** 
