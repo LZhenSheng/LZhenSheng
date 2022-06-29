@@ -18,7 +18,11 @@
 🛠️ **Profile:**
 <P>
 𝑯𝒊, 𝑰'𝒎 ✨ 𝑳𝒊𝒁𝒉𝒆𝒏𝑺𝒉𝒆𝒏𝒈 ✨ 𝒇𝒓𝒐𝒎 𝑮𝒖𝒊𝒍𝒊𝒏 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚 𝒐𝒇 𝑬𝒍𝒆𝒄𝒕𝒓𝒐𝒏𝒊𝒄 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝒂𝒏𝒅 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚, 𝒎𝒂𝒋𝒐𝒓𝒊𝒏𝒈 𝒊𝒏 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒆𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈. 𝑰 𝒂𝒎 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒆𝒅 𝒊𝒏 𝒅𝒆𝒆𝒑 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝒎𝒂𝒄𝒉𝒊𝒏𝒆 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒂𝒏𝒅 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕.
+
 </p>
+
+[👀View my resume](https://github.com/LZhenSheng/LZhenSheng/blob/main/images/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.pdf)  [DentalHousekeeper](https://github.com/LZhenSheng/DentalHousekeeper)
+
 
 🛠️ **Software:**
 <p>
@@ -112,3 +116,7 @@
 - [Epidemic](https://github.com/LZhenSheng/Epidemic) - 疫情防控APP
 - [OrthogonalTable](https://github.com/LZhenSheng/OrthogonalTable) - 正交测试用例生成APP（软件测试）
 - [SmartCar](https://github.com/LZhenSheng/SmartCar) - 智能小车
+
+🛠️ **My Prize:** 
+
+
