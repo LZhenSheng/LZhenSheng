@@ -21,8 +21,9 @@
 
 </p>
 
-[👀View my resume](https://github.com/LZhenSheng/LZhenSheng/blob/main/images/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.pdf)  [👇Download my resume](https://github.com/LZhenSheng/LZhenSheng/raw/main/images/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.pdf)
-
+[👀View my resume](https://github.com/LZhenSheng/LZhenSheng/blob/main/images/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.pdf)  [👇Download my resume](https://github.com/LZhenSheng/LZhenSheng/raw/main/images/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.pdf)[👀View my transcript
+](https://github.com/LZhenSheng/LZhenSheng/blob/main/images/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.pdf)  [👇Download my transcript
+](https://github.com/LZhenSheng/LZhenSheng/raw/main/images/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.pdf)
 
 🛠️ **Software:**
 <p>
