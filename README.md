@@ -75,15 +75,27 @@
     <img alt="MyBatis" src="https://img.shields.io/badge/MyBatis-%23c83d2e.svg?logo=MyBatis">
 </p>
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=LZhenSheng&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+🛠️ **My GitHub Stats:** 
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LZhenSheng&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/?username=LZhenSheng&theme=shades-of-purple&show_icons=true&count_private=true" alt="LZhenSheng's GitHub Stats">
+    <!-- Top Langs - https://github.com/anuraghazra/github-readme-stats -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LZhenSheng&layout=compact&theme=tokyonight&hide=ejs,blade,html,css" alt="LZhenSheng's Top Langs">
+</p>
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=LZhenSheng" /> </div>
+🛠️ **My GitHub activities of last 31 days:** 
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=LZhenSheng&theme=xcode" /> </div>
+<div align="center"> 
+    <img src="https://activity-graph.herokuapp.com/graph?username=LZhenSheng&theme=xcode" /> 
+</div>
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
+🛠️ **My GitHub trophy:** 
+
+<p  align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=LZhenSheng" /> 
+</p>
+
+🛠️ **My CSDN Stats:** 
 
 <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_44575660&theme=dark"> </div>
 
