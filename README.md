@@ -99,3 +99,16 @@
 
 <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_44575660&theme=dark"> </div>
 
+🛠️ **My Github Project:** 
+
+- [DentalHousekeeper](https://github.com/LZhenSheng/DentalHousekeeper) - 牙医管家客户端的设计与开发（毕业设计）
+- [SmartHomeControlPlatformBasedOnRaspberryPie](https://github.com/LZhenSheng/SmartHomeControlPlatformBasedOnRaspberryPie) - 基于树莓派的智能家居控制平台
+- [ResourceManagementSystemBasedOnBigDataFile](https://github.com/LZhenSheng/DentalHousekeeper) - 基于大数据的人力资源管理系统
+- [LibraryManagementMonitoringSystem](https://github.com/LZhenSheng/LibraryManagementMonitoringSystem) - 基于树莓派和RFID技术的智能图书管理监控系统（嵌入式课设）
+- [IntelligentDiagnosisPlatform](https://github.com/LZhenSheng/IntelligentDiagnosisPlatform) - 多病种的病理图像识别软件（仅软件部分）
+- [StudentAchievementManagementInformationSystem](https://github.com/LZhenSheng/StudentAchievementManagementInformationSystem) - 简单学生成绩管理信息系统（C语言实验）
+- [PhoneticSystem](https://github.com/LZhenSheng/PhoneticSystem) - 基于TCP的点对点语音聊天APP
+- [PictureLocation](https://github.com/LZhenSheng/PictureLocation) - 基于深度学习的图像定位算法
+- [Epidemic](https://github.com/LZhenSheng/Epidemic) - 疫情防控APP
+- [OrthogonalTable](https://github.com/LZhenSheng/OrthogonalTable) - 正交测试用例生成APP（软件测试）
+- [SmartCar](https://github.com/LZhenSheng/SmartCar) - 智能小车
