@@ -120,9 +120,23 @@
 
 🛠️ **My Prize:** 
 
-
+- [第十七届挑战杯全国大学生课外学术科技作品竞赛“黑科技”专项行星级作品](https://github.com/LZhenSheng/LZhenSheng/blob/main/images/%E9%BB%91%E7%A7%91%E6%8A%80-%E2%80%9C%E8%A1%8C%E6%98%9F%E2%80%9D%E7%BA%A7%EF%BC%9A%E6%9F%94%E6%80%A7%E7%94%B5%E6%B1%A0%E5%8D%B0%E5%88%B7%E5%88%B6%E9%80%A0%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%BA%94%E7%94%A8.pdf)
+- [第六届中国国际互联网+大学生创新创业大赛广西赛区银奖](https://github.com/LZhenSheng/LZhenSheng/blob/main/images/%E7%AC%AC%E5%85%AD%E5%B1%8A%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E4%BA%92%E8%81%94%E7%BD%91%2B%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%9B%E6%96%B0%E5%88%9B%E4%B8%9A%E5%A4%A7%E8%B5%9B%E5%B9%BF%E8%A5%BF%E8%B5%9B%E5%8C%BA%E9%93%B6%E5%A5%96.pdf)
+- [第二届广西人工智能大赛一等奖](https://github.com/LZhenSheng/LZhenSheng/blob/main/images/%E7%AC%AC%E4%BA%8C%E5%B1%8A%E5%B9%BF%E8%A5%BF%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96.pdf)
+- [第十二届蓝桥杯全国总决赛三等奖](https://github.com/LZhenSheng/LZhenSheng/blob/main/images/%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E5%85%A8%E5%9B%BD%E6%80%BB%E5%86%B3%E8%B5%9B%E4%B8%89%E7%AD%89%E5%A5%96.pdf)
+- [2020年第二届全国高校计算机能力挑战赛决赛二等奖](https://github.com/LZhenSheng/LZhenSheng/blob/main/images/2020%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%B1%8A%E5%85%A8%E5%9B%BD%E9%AB%98%E6%A0%A1%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%83%BD%E5%8A%9B%E6%8C%91%E6%88%98%E8%B5%9B%E5%86%B3%E8%B5%9B%E4%BA%8C%E7%AD%89%E5%A5%96.pdf)
+- [2020年全国大学生计算机技能应用大赛决赛三等奖](https://github.com/LZhenSheng/LZhenSheng/blob/main/images/2020%E5%B9%B4%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E8%83%BD%E5%BA%94%E7%94%A8%E5%A4%A7%E8%B5%9B%E5%86%B3%E8%B5%9B%E4%B8%89%E7%AD%89%E5%A5%96.pdf)
+- [2020网络技术挑战赛华南赛区三等奖](https://github.com/LZhenSheng/LZhenSheng/blob/main/images/2020%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E6%8C%91%E6%88%98%E8%B5%9B%E5%8D%8E%E5%8D%97%E8%B5%9B%E5%8C%BA%E4%B8%89%E7%AD%89%E5%A5%96.pdf)
+- [2018-2019学年校一等奖学金](https://github.com/LZhenSheng/LZhenSheng/blob/main/images/2018-2019%E5%AD%A6%E5%B9%B4%E6%A0%A1%E4%B8%80%E7%AD%89%E5%A5%96%E5%AD%A6%E9%87%91.pdf)
+- [2019-2020学年校一等奖学金](https://github.com/LZhenSheng/LZhenSheng/blob/main/images/2019-2020%E5%AD%A6%E5%B9%B4%E6%A0%A1%E4%B8%80%E7%AD%89%E5%A5%96%E5%AD%A6%E9%87%91.pdf)
+- [2018-2019学年校三好学生标兵](https://github.com/LZhenSheng/LZhenSheng/blob/main/images/2018-2019%E5%AD%A6%E5%B9%B4%E6%A0%A1%E4%B8%89%E5%A5%BD%E5%AD%A6%E7%94%9F%E6%A0%87%E5%85%B5.pdf)
+- [2019-2020学年校三好学生标兵](https://github.com/LZhenSheng/LZhenSheng/blob/main/images/2019-2020%E5%AD%A6%E5%B9%B4%E6%A0%A1%E4%B8%89%E5%A5%BD%E5%AD%A6%E7%94%9F%E6%A0%87%E5%85%B5.pdf)
+- [2018年度优秀共青团员](https://github.com/LZhenSheng/LZhenSheng/blob/main/images/2018%E5%B9%B4%E5%BA%A6%E4%BC%98%E7%A7%80%E5%85%B1%E9%9D%92%E5%9B%A2%E5%91%98.pdf)
+- [2019年度优秀共青团员](https://github.com/LZhenSheng/LZhenSheng/blob/main/images/2019%E5%B9%B4%E5%BA%A6%E4%BC%98%E7%A7%80%E5%85%B1%E9%9D%92%E5%9B%A2%E5%91%98.pdf)
+- [2020年度优秀共青团员](https://github.com/LZhenSheng/LZhenSheng/blob/main/images/2020%E5%B9%B4%E5%BA%A6%E4%BC%98%E7%A7%80%E5%85%B1%E9%9D%92%E5%9B%A2%E5%91%98.pdf)
 
 🛠️ **My achievements:** 
+
 论文-Charitable Donation System Based on Blockchain Technology
 专利-基于FreeRTOS操作系统的非接触式健康监测系统
 - [软著-基于区块链技术的慈善捐助溯源平台V1.0](https://github.com/LZhenSheng/LZhenSheng/blob/main/images/%E5%9F%BA%E4%BA%8E%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E7%9A%84%E6%85%88%E5%96%84%E6%8D%90%E5%8A%A9%E6%BA%AF%E6%BA%90%E5%B9%B3%E5%8F%B0V1.0.pdf)
