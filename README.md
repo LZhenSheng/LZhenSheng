@@ -2,7 +2,8 @@
     Hi~ Thank you for coming!
 </h1>
 
-<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<div align="center" >
+    <img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
 <br>
 
 <!-- 个人资料徽标 -->
