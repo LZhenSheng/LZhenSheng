@@ -138,8 +138,8 @@
 
 🛠️ **My achievements:** 
 
-- [论文-Charitable Donation System Based on Blockchain Technology]()
-- [专利-基于FreeRTOS操作系统的非接触式健康监测系统]()
+- []() 论文-Charitable Donation System Based on Blockchain Technology
+- []() 专利-基于FreeRTOS操作系统的非接触式健康监测系统
 - [软著-基于区块链技术的慈善捐助溯源平台V1.0](https://github.com/LZhenSheng/LZhenSheng/blob/main/images/%E5%9F%BA%E4%BA%8E%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E7%9A%84%E6%85%88%E5%96%84%E6%8D%90%E5%8A%A9%E6%BA%AF%E6%BA%90%E5%B9%B3%E5%8F%B0V1.0.pdf)
 - [软著-多病种的病理图像识别软件V1.0](https://github.com/LZhenSheng/LZhenSheng/blob/main/images/%E5%A4%9A%E7%97%85%E7%A7%8D%E7%9A%84%E7%97%85%E7%90%86%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB%E8%BD%AF%E4%BB%B6%20Vl.%200.pdf)
 - [软著-基于树莓派和RFID技术的智能图书管理监控系统V1.0](https://github.com/LZhenSheng/LZhenSheng/blob/main/images/%E5%9F%BA%E4%BA%8E%E6%A0%91%E8%8E%93%E6%B4%BE%E5%92%8CRFID%E6%8A%80%E6%9C%AF%E7%9A%84%E6%99%BA%E8%83%BD%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F.pdf)
